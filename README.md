@@ -19,7 +19,7 @@ The dots on my GitHub profile represent my journey 🏃‍♂️ - This is kalee
   </a>
 </div>
 
-<a href="your-twitter-URL">
+<a href="your-twitter-URL" align="center">
    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
 
